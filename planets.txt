@@ -2,7 +2,9 @@ Sun
 Mercury
 Venus
 Earth
+ - Moon
 Mars
 Jupiter
+ - Europa
 Saturn
 Uranus
